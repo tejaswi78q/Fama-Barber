@@ -4,7 +4,7 @@ A sleek and modern landing page for Fama Barber Shop & Beauty Salon, designed to
 
 ## Live Demo
 
-[Visit the website](https://fama-barber.vercel.app)
+[Visit the website]()
 
 ## Features
 
@@ -27,6 +27,6 @@ A sleek and modern landing page for Fama Barber Shop & Beauty Salon, designed to
 To run the project locally:
 
 ```bash
-git clone https://github.com/Tharun78657/fama-Barber.git
+git clone https://github.com/tejaswi78q/Fama-Barber.git
 cd fama-Barber
 open index.html
