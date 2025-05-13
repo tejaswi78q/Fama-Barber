@@ -28,5 +28,5 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/tejaswi78q/Fama-Barber.git
-cd fama-Barber
+cd Fama-Barber
 open index.html
